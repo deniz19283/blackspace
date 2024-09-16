@@ -8,10 +8,9 @@ export default function Advertise() {
       <section className='module-component module-component_hero has-image'>
         <div className='wrapper'>
           <div className='hero_anchor'>
-            <h2>Internationellt</h2>
+            <h2>The idea behind Blackspace</h2>
             <p className='preamble'>
-              Vi erbjuder våra klienter den bästa möjliga rådgivningen var i
-              världen de än gör affärer.
+              To those who wants to improve the value of a company, need to know how to organize to achieve organizational goals. 
             </p>
             <Link
               href='/'

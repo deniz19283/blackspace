@@ -7,11 +7,11 @@ export default function Hero() {
       <section className='module-component module-component_hero'>
         <div className='wrapper'>
           <div className='hero_anchor'>
-            <h2>Välkommen till Mannheimer Swartling</h2>
+            <h2>Welcome to Blackspace</h2>
             <Link
               href='/'
               target='_self'
-              title='Om byrån'
+              title='About the company'
               className='button button-white'
             >
               Om byrån{' '}
@@ -19,8 +19,8 @@ export default function Hero() {
           </div>
         </div>
         <video loop={true} muted={true} playsInline={false} autoPlay={true}>
-          <source src='/assets/hero.mp4' type='video/mp4' />
-          <p>Din webbläsare stödjer inte video.</p>
+          <source src='assets/footer/footer-video.mp4' type='video/mp4' />
+          <p>You'r browser does not support video.</p>
         </video>
       </section>
     </>
