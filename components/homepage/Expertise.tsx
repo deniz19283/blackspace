@@ -1,3 +1,5 @@
+import Image from 'next/image';
+import Link from 'next/link';
 import React from 'react';
 
 export default function Expertise() {
@@ -6,23 +8,25 @@ export default function Expertise() {
       <section className='module-component module-component_content'>
         <div className='wrapper content-module_width-large'>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>The idea behind Blackspace</h2>
+            <h2 className='content-module_title section-title'>Expertis</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Common sense is a theory about how to understand and negotiate life. 
-                More generally, whenever you create your own meaning or grasp someone else’s, 
-                you make things, feelings, ideas, experiences, values, expectations into ideas and concepts. 
+                Med den samlade kunskapen hos våra välrenommerade jurister inom
+                alla områden av affärsjuridik mobiliserar vi snabbt rätt
+                expertis och erfarenhet för varje uppdrag. Vi är organiserade i
+                grupper med fokus på specifika verksamheter och branscher och vi
+                samarbetar sömlöst inom hela byrån.
               </p>
             </div>
             <footer className='content-module_footer'>
-              <a
-                href='https://www.mannheimerswartling.se/expertis/'
+              <Link
+                href='/'
                 target='_self'
-                title='Our Services'
+                title='Våra rådgivningstjänster'
                 className='button'
               >
                 Våra rådgivningstjänster{' '}
-              </a>
+              </Link>
             </footer>
           </div>
         </div>
@@ -30,38 +34,35 @@ export default function Expertise() {
       <section className='module-component module-component_content'>
         <div className='wrapper content-module_width-medium'>
           <figure className='content-module_thumbnail'>
-            <img
+            <Image
               width={1200}
               height={800}
-              src='https://www.mannheimerswartling.se/app/uploads/2023/09/04-0093-1200x800.jpg'
+              src='/assets/expertise/image-1.jpg'
               className='responsive-img'
               alt=''
               decoding='async'
               loading='lazy'
-              srcSet='https://www.mannheimerswartling.se/app/uploads/2023/09/04-0093-1200x800.jpg 1200w, https://www.mannheimerswartling.se/app/uploads/2023/09/04-0093-2000x1333.jpg 2000w, https://www.mannheimerswartling.se/app/uploads/2023/09/04-0093-800x533.jpg 800w, https://www.mannheimerswartling.se/app/uploads/2023/09/04-0093-768x512.jpg 768w, https://www.mannheimerswartling.se/app/uploads/2023/09/04-0093-1536x1024.jpg 1536w, https://www.mannheimerswartling.se/app/uploads/2023/09/04-0093-2048x1365.jpg 2048w'
               sizes='(max-width: 1200px) 100vw, 1200px'
             />
           </figure>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>Our Work</h2>
+            <h2 className='content-module_title section-title'>Medarbetare</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Those who wants to improve the value of a company need to know how to organize to achieve organizational goals;
-                those who want to improve performance will need to understand how to achieve results.
-                Our idea is by structuring the right activities and designing organizational capabilities through emerging technologies, we 
-                help organisations, companies and states thrive and become the 
-                best version of themselves. We focus on the outcomes and deliver value that is better than how it was yesterday and in your encounters before.
+                Vem söker du? Trots att vi är utspridda på en global marknad är
+                vi ett nära sammansvetsat team med expertis inom alla delar av
+                affärsjuridiken.
               </p>
             </div>
             <footer className='content-module_footer'>
-              <a
-                href='https://www.mannheimerswartling.se/medarbetare/'
+              <Link
+                href='/'
                 target='_self'
                 title='Hitta medarbetare'
                 className='button'
               >
                 Hitta medarbetare{' '}
-              </a>
+              </Link>
             </footer>
           </div>
         </div>

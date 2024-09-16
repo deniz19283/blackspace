@@ -1,37 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-} */
-
+@import '../public/styles/styles.css';
 .wp-block-button__link {
   color: #fff;
   background-color: #32373c;
@@ -433,9 +400,52 @@ body .is-layout-grid > * {
   font-size: 1.5em;
   line-height: 1.6;
 }
-.primary-menu .menu-item a{
+.primary-menu .menu-item a {
   color: #fff !important;
 }
 .home .site-logo svg path {
   fill: #fff !important;
+}
+.offer-layout h1,
+.offer-layout p {
+  text-align: center;
+}
+.offer-layout {
+  padding: 20px;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+.offer-layout p:last-child {
+  text-align: left !important;
+}
+@media (min-width: 900px) {
+  .offer-layout {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 1020px) {
+  .offer-down-layout {
+    margin: 0 auto;
+    max-width: 1020px;
+  }
+}
+@media (max-width: 680px) {
+  .offer-down-layout article {
+    flex-wrap: wrap;
+    padding: 36px 20px;
+    flex-direction: column;
+  }
+}
+.offer-down-layout article {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 36px 0;
+}
+.offer-down-layout article p {
+  text-align: center;
 }

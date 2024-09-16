@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 export default function Footer() {
@@ -11,14 +12,14 @@ export default function Footer() {
               Håll dig uppdaterad med&nbsp;våra&nbsp;nyhetsbrev.
             </p>
             <footer className='site-footer-newsletter_footer'>
-              <a
-                href='https://www.mannheimerswartling.se/nyhetsbrev/'
+              <Link
+                href='/'
                 className='button button-circular button-white'
                 target=''
                 title='Prenumerera'
               >
                 Prenumerera{' '}
-              </a>
+              </Link>
             </footer>
           </div>
           <nav className='company-offices'>
@@ -27,33 +28,25 @@ export default function Footer() {
                 id='menu-item-13901'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13901'
               >
-                <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/sverige/'>
-                  Sverige
-                </a>
+                <Link href='/'>Sverige</Link>
                 <ul className='sub-menu'>
                   <li
                     id='menu-item-8497'
                     className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8497'
                   >
-                    <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/sverige/'>
-                      Stockholm
-                    </a>
+                    <Link href='/'>Stockholm</Link>
                   </li>
                   <li
                     id='menu-item-8498'
                     className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8498'
                   >
-                    <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/sverige/'>
-                      Göteborg
-                    </a>
+                    <Link href='/'>Göteborg</Link>
                   </li>
                   <li
                     id='menu-item-8499'
                     className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8499'
                   >
-                    <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/sverige/'>
-                      Malmö
-                    </a>
+                    <Link href='/'>Malmö</Link>
                   </li>
                 </ul>
               </li>
@@ -61,17 +54,13 @@ export default function Footer() {
                 id='menu-item-13902'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13902'
               >
-                <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/belgien/'>
-                  Belgien
-                </a>
+                <Link href='/'>Belgien</Link>
                 <ul className='sub-menu'>
                   <li
                     id='menu-item-8502'
                     className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8502'
                   >
-                    <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/belgien/'>
-                      Bryssel
-                    </a>
+                    <Link href='/'>Bryssel</Link>
                   </li>
                 </ul>
               </li>
@@ -79,17 +68,13 @@ export default function Footer() {
                 id='menu-item-13906'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13906'
               >
-                <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/singapore/'>
-                  Singapore
-                </a>
+                <Link href='/'>Singapore</Link>
                 <ul className='sub-menu'>
                   <li
                     id='menu-item-8501'
                     className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8501'
                   >
-                    <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/singapore/'>
-                      Singapore
-                    </a>
+                    <Link href='/'>Singapore</Link>
                   </li>
                 </ul>
               </li>
@@ -97,17 +82,13 @@ export default function Footer() {
                 id='menu-item-13907'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13907'
               >
-                <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/usa/'>
-                  USA
-                </a>
+                <Link href='/'>USA</Link>
                 <ul className='sub-menu'>
                   <li
                     id='menu-item-8503'
                     className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8503'
                   >
-                    <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/usa/'>
-                      New York
-                    </a>
+                    <Link href='/'>New York</Link>
                   </li>
                 </ul>
               </li>
@@ -129,48 +110,38 @@ export default function Footer() {
                 id='menu-item-16945'
                 className='contact-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-16945'
               >
-                <a href='https://www.mannheimerswartling.se/om-byran/kontakta-oss/'>
-                  Kontakt
-                </a>
+                <Link href='/'>Kontakt</Link>
               </li>
               <li
                 id='menu-item-13405'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-13405'
               >
-                <a href='https://www.mannheimerswartling.se/allmanna-villkor/'>
-                  Allmänna villkor
-                </a>
+                <Link href='/'>Allmänna villkor</Link>
               </li>
               <li
                 id='menu-item-13410'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-13410'
               >
-                <a href='https://www.mannheimerswartling.se/disclaimer/'>
-                  Disclaimer
-                </a>
+                <Link href='/'>Disclaimer</Link>
               </li>
               <li
                 id='menu-item-27105'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-27105'
               >
-                <a href='https://www.mannheimerswartling.se/personuppgiftsbehandling/'>
-                  Privacy Notice
-                </a>
+                <Link href='/'>Privacy Notice</Link>
               </li>
               <li
                 id='menu-item-13406'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-13406'
               >
-                <a href='https://www.mannheimerswartling.se/cookies/'>
-                  Cookiepolicy
-                </a>
+                <Link href='/'>Cookiepolicy</Link>
               </li>
             </ul>
           </nav>
           <ul className='company-social-list'>
             <li className='company-social-item'>
-              <a
-                href='https://www.instagram.com/mannheimer_swartling/'
+              <Link
+                href='/'
                 target='_blank'
                 rel='noopener noreferrer'
                 title='Instagram'
@@ -178,11 +149,11 @@ export default function Footer() {
                 <svg className='icon icon-instagram'>
                   <use xlinkHref='#icon-instagram' />
                 </svg>
-              </a>
+              </Link>
             </li>
             <li className='company-social-item'>
-              <a
-                href='https://www.facebook.com/mannheimerswartling'
+              <Link
+                href='/'
                 target='_blank'
                 rel='noopener noreferrer'
                 title='Facebook'
@@ -190,19 +161,21 @@ export default function Footer() {
                 <svg className='icon icon-facebook'>
                   <use xlinkHref='#icon-facebook' />
                 </svg>
-              </a>
+              </Link>
             </li>
             <li className='company-social-item'>
-              <a
-                href='https://www.linkedin.com/company/mannheimer-swartling'
+              <Link
+                href='/'
                 target='_blank'
                 rel='noopener noreferrer'
                 title='Linkedin'
               >
-                <svg className='icon icon-linkedin'>
-                  <use xlinkHref='#icon-linkedin' />
-                </svg>
-              </a>
+                <>
+                  <svg className='icon icon-linkedin'>
+                    <use xlinkHref='#icon-linkedin' />
+                  </svg>
+                </>
+              </Link>
             </li>
           </ul>
         </div>
