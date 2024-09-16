@@ -18,7 +18,7 @@ export default function Expertise() {
               <a
                 href='https://www.mannheimerswartling.se/expertis/'
                 target='_self'
-                title='Våra rådgivningstjänster'
+                title='Our Services'
                 className='button'
               >
                 Våra rådgivningstjänster{' '}
