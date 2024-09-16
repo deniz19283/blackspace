@@ -51,10 +51,11 @@ export default function Expertise() {
             <h2 className='content-module_title section-title'>The idea behind Blackspace</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                the world influence how we carry out our work, how leaders design and manage their states, 
-                organisations, and companies and how we relate to the world and to other people. 
+                The world influence how we carry out our work, how leaders design and manage their 
+                organisations, and how companies and we relate to the world around us, and to other people. 
                 Wether you assume that your organisation is best run as a well oiled machine or a broken mirror, 
-                you will perceive to be the best designing your organizational world. 
+                you will perceive to be the best to design your organizational world. Our idea is to help you
+                do just that - design the best organisational world possible. 
               </p>
             </div>
             <footer className='content-module_footer'>
