@@ -8,7 +8,7 @@ export default function News() {
     <>
       <section className='module-component module-component_posts'>
         <div className='wrapper'>
-          <h2 className='section-title'>Nyheter</h2>
+          <h2 className='section-title'>Our current projects/h2>
           <div className='posts-list'>
             {newsData.map((news, index) => (
               <div key={index} className='postentry'>
@@ -37,10 +37,10 @@ export default function News() {
             <a
               href='/'
               target='_self'
-              title='Se fler nyheter'
+              title='See more projects'
               className='button'
             >
-              Se fler nyheter{' '}
+              See more projects{' '}
             </a>
           </footer>
         </div>
