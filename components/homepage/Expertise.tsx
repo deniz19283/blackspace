@@ -43,7 +43,7 @@ export default function Expertise() {
             />
           </figure>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>Medarbetare</h2>
+            <h2 className='content-module_title section-title'>Our Work</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
                 Vem söker du? Trots att vi är utspridda på en global marknad är
