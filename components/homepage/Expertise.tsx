@@ -11,13 +11,13 @@ export default function Expertise() {
             <h2 className='content-module_title section-title'>Our offer in an international environment</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Those leaderships who wants to improve the value of an organisation, state or company
-                need to know how to organize, to achieve organizational goals; We offer to build
-                value in a space that is needed to construct a more secure digital end user experience.
-                Our idea is by structuring the right activities and designing organizational capabilities 
-                through emerging technologies, to help organisations, companies and states thrive and
-                become the best version possible. Our focus is to deliver those outcomes that 
-                deliver integrated value. 
+                Our focus is to deliver those outcomes that 
+                deliver integrated value and Our idea is by structuring the right activities and designing organizational
+                capabilities, we can help organisations, companies and states thrive and become the best version possible.
+                Those leaderships, who wants to improve the value of an organisation, a company or a state need to know 
+                how to organize and achieve organizational goals; We offer to build those capabilities that construct
+                value in a space that is needed for security and safety. 
+                
               </p>
             </div>
             <footer className='content-module_footer'>
