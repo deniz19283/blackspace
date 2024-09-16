@@ -6,14 +6,12 @@ export default function Expertise() {
       <section className='module-component module-component_content'>
         <div className='wrapper content-module_width-large'>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>Expertis</h2>
+            <h2 className='content-module_title section-title'>Our offer</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Med den samlade kunskapen hos våra välrenommerade jurister inom
-                alla områden av affärsjuridik mobiliserar vi snabbt rätt
-                expertis och erfarenhet för varje uppdrag. Vi är organiserade i
-                grupper med fokus på specifika verksamheter och branscher och vi
-                samarbetar sömlöst inom hela byrån.
+                Common sense is a theory about how to understand and negotiate life. 
+                More generally, whenever you create your own meaning or grasp someone else’s, 
+                you make things, feelings, ideas, experiences, values, expectations into ideas and concepts. 
               </p>
             </div>
             <footer className='content-module_footer'>
