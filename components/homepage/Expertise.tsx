@@ -12,8 +12,12 @@ export default function Expertise() {
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
                 Those leaderships who wants to improve the value of an organisation, state or company
-                need to know how to organize to achieve organizational goals; We offer to build
+                need to know how to organize, to achieve organizational goals; We offer to build
                 value in a space that is needed to construct a more secure digital end user experience.
+                Our idea is by structuring the right activities and designing organizational capabilities 
+                through emerging technologies, to help organisations, companies and states thrive and
+                become the best version possible. Our focus is to deliver those outcomes that 
+                deliver integrated value. 
               </p>
             </div>
             <footer className='content-module_footer'>
