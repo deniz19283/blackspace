@@ -6,7 +6,7 @@ export default function Expertise() {
       <section className='module-component module-component_content'>
         <div className='wrapper content-module_width-large'>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>Our offer</h2>
+            <h2 className='content-module_title section-title'>The idea behind Blackspace</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
                 Common sense is a theory about how to understand and negotiate life. 
@@ -46,9 +46,11 @@ export default function Expertise() {
             <h2 className='content-module_title section-title'>Our Work</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Vem söker du? Trots att vi är utspridda på en global marknad är
-                vi ett nära sammansvetsat team med expertis inom alla delar av
-                affärsjuridiken.
+                Those who wants to improve the value of a company need to know how to organize to achieve organizational goals;
+                those who want to improve performance will need to understand how to achieve results.
+                Our idea is by structuring the right activities and designing organizational capabilities through emerging technologies, we 
+                help organisations, companies and states thrive and become the 
+                best version of themselves. We focus on the outcomes and deliver value that is better than how it was yesterday and in your encounters before.
               </p>
             </div>
             <footer className='content-module_footer'>
