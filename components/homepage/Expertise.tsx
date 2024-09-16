@@ -8,7 +8,7 @@ export default function Expertise() {
       <section className='module-component module-component_content'>
         <div className='wrapper content-module_width-large'>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>Expertis</h2>
+            <h2 className='content-module_title section-title'>Our offer in an international environment</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
                 Med den samlade kunskapen hos våra välrenommerade jurister inom
