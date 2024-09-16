@@ -16,7 +16,7 @@ export default function Expertise() {
                 capabilities, we can help organisations, companies and states thrive and become the best version possible.
                 Those leaderships, who wants to improve the value of an organisation, a company or a state need to know 
                 how to organize and achieve organizational goals; We offer to build those capabilities that construct
-                value in a space that is needed for security and safety. 
+                value in a space that is needed for responsible security and safety. 
                 
               </p>
             </div>
