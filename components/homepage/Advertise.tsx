@@ -10,7 +10,7 @@ export default function Advertise() {
           <div className='hero_anchor'>
             <h2>The idea behind Blackspace</h2>
             <p className='preamble'>
-              To those who wants to improve the value of a company, need to know how to organize to achieve organizational goals; 
+              To those who wants to improve the value of a company, need to know how to organize to achieve organizational goals. 
             </p>
             <Link
               href='/'
