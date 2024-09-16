@@ -8,8 +8,7 @@ export default function Advertise() {
           <div className='hero_anchor'>
             <h2>Internationellt</h2>
             <p className='preamble'>
-              Vi erbjuder våra klienter den bästa möjliga rådgivningen var i
-              världen de än gör affärer.
+              Improve the value of a company need to know how to organize to achieve organizational goals; 
             </p>
             <a
               href='https://www.mannheimerswartling.se/internationellt/'
@@ -26,7 +25,7 @@ export default function Advertise() {
           height={1042}
           src='https://www.mannheimerswartling.se/app/uploads/2021/01/MannheimerSwartling-New-York-Globalt-1-2000x1042.jpg'
           className='hero_img'
-          alt='Vy över New York'
+          alt='Blackspace'
           decoding='async'
           loading='lazy'
           srcSet='https://www.mannheimerswartling.se/app/uploads/2021/01/MannheimerSwartling-New-York-Globalt-1-2000x1042.jpg 2000w, https://www.mannheimerswartling.se/app/uploads/2021/01/MannheimerSwartling-New-York-Globalt-1-1200x625.jpg 1200w, https://www.mannheimerswartling.se/app/uploads/2021/01/MannheimerSwartling-New-York-Globalt-1-800x417.jpg 800w, https://www.mannheimerswartling.se/app/uploads/2021/01/MannheimerSwartling-New-York-Globalt-1-768x400.jpg 768w, https://www.mannheimerswartling.se/app/uploads/2021/01/MannheimerSwartling-New-York-Globalt-1-1536x800.jpg 1536w, https://www.mannheimerswartling.se/app/uploads/2021/01/MannheimerSwartling-New-York-Globalt-1-2048x1067.jpg 2048w'
