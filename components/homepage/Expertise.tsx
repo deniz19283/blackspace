@@ -11,11 +11,9 @@ export default function Expertise() {
             <h2 className='content-module_title section-title'>Our offer in an international environment</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Med den samlade kunskapen hos våra välrenommerade jurister inom
-                alla områden av affärsjuridik mobiliserar vi snabbt rätt
-                expertis och erfarenhet för varje uppdrag. Vi är organiserade i
-                grupper med fokus på specifika verksamheter och branscher och vi
-                samarbetar sömlöst inom hela byrån.
+                We offer to build the value that is needed to construct a more secure experience for your organisation. 
+                Those who wants to improve the value of a company need to know how to organize to achieve organizational goals; 
+                those who want to improve performance will need to understand how to achieve results.
               </p>
             </div>
             <footer className='content-module_footer'>
