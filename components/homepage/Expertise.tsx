@@ -20,10 +20,10 @@ export default function Expertise() {
               <Link
                 href='/'
                 target='_self'
-                title='Våra rådgivningstjänster'
+                title='Our offer'
                 className='button'
               >
-                Våra rådgivningstjänster{' '}
+                Our offer{' '}
               </Link>
             </footer>
           </div>
