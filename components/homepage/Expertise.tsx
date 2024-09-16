@@ -48,12 +48,13 @@ export default function Expertise() {
             />
           </figure>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>Medarbetare</h2>
+            <h2 className='content-module_title section-title'>The idea behind Blackspace</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Vem söker du? Trots att vi är utspridda på en global marknad är
-                vi ett nära sammansvetsat team med expertis inom alla delar av
-                affärsjuridiken.
+                the world influence how we carry out our work, how leaders design and manage their states, 
+                organisations, and companies and how we relate to the world and to other people. 
+                Wether you assume that your organisation is best run as a well oiled machine or a broken mirror, 
+                you will perceive to be the best designing your organizational world. 
               </p>
             </div>
             <footer className='content-module_footer'>
