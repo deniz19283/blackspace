@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 @import '../public/styles/styles.css';
 .wp-block-button__link {
   color: #fff;
