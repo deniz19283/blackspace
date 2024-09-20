@@ -862,7 +862,7 @@ button,
 input[type='submit'] {
   background-color: transparent;
   border: 1px solid #999;
-  border-radius: 0;
+  border-radius: 100px;
   color: #000;
   cursor: pointer;
   display: inline-block;
@@ -5771,12 +5771,12 @@ input[type='radio']:focus {
   color: #fff;
   display: flex;
   flex-flow: column nowrap;
-  height: 100vh;
+  height: 100vh !important;
   justify-content: flex-end;
   left: 0;
   overflow: hidden;
   padding: 0;
-  position: fixed;
+  position: fixed !important;
   top: 0;
   transition: transform 0.4s ease;
   width: 100%;
@@ -6778,4 +6778,33 @@ input[type='search']:focus {
 .offer-down-layout article p {
   text-align: center;
   font-family: Caslon224Std-Book, serif;
+}
+main {
+  margin-bottom: 100vh !important;
+}
+.menu-link-heading {
+  gap: 20px;
+}
+.menu-link-heading h4 {
+  font-family: 'MonumentGrotesk-Medium', serif;
+}
+.menu-link-heading a {
+  font-weight: 100;
+  font-size: 16px;
+  font-family: 'MonumentGrotesk-Regular', serif;
+}
+.menu-link-heading p {
+  font-family: 'MonumentGrotesk-Regular', serif;
+}
+.newsletter h4 {
+  font-family: 'MonumentGrotesk-Regular', serif;
+}
+.font-monu-reg {
+  font-family: 'MonumentGrotesk-Regular', serif;
+}
+.font-monu-med {
+  font-family: 'MonumentGrotesk-Medium', serif;
+}
+.font-monu-bold {
+  font-family: 'MonumentGrotesk-Bold', serif;
 }
