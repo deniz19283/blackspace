@@ -37,7 +37,7 @@ export default function News() {
             <a
               href='/'
               target='_self'
-              title='See more projects'
+              title='Se fler projekt'
               className='button'
             >
               Se fler projekt{' '}
