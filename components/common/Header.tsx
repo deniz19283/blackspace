@@ -20,19 +20,19 @@ export default function Header() {
                 id='menu-item-8822'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8822'
               >
-                <Link href='/'>Expertis</Link>
+                <Link href='/'>Hur vi kan hjälpa till</Link>
               </li>
               <li
                 id='menu-item-13766'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-13766'
               >
-                <Link href='/'>Medarbetare</Link>
+                <Link href='/'>Vårt erbjudande</Link>
               </li>
               <li
                 id='menu-item-22119'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-22119'
               >
-                <Link href='/'>Nyheter</Link>
+                <Link href='/'>Om Oss</Link>
               </li>
               <li className='menu-item menu-item-secondary menu-item-lang'>
                 <Link href='/'>English</Link>
