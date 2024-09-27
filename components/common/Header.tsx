@@ -67,8 +67,7 @@ export default function Header() {
             id='menu-item-8827'
             className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8827'
           >
-            <Link href='länken
-            </Link>
+            <Link href='länken›'>länken›</Link>
           </li>
           <li
             id='menu-item-8826'
