@@ -58,27 +58,26 @@ export default function Header() {
             id='menu-item-8824'
             className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8824'
           >
-            <Link href='/'>Expertis</Link>
+            <Link href='/'>Hur vi kan hjälpa till</Link>
           </li>
           <li
             id='menu-item-8390'
             className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8390'
           >
-            <Link href='/medarbetare'>Medarbetare</Link>
+            <Link href='/medarbetare'>Vårt erbjudande</Link>
           </li>
           <li
             id='menu-item-8827'
             className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8827'
           >
-            <Link href='https://www.mannheimerswartling.se/internationellt/'>
-              Internationellt
+            <Link href='länken
             </Link>
           </li>
           <li
             id='menu-item-8826'
             className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8826'
           >
-            <Link href='/'>Om byrån</Link>
+            <Link href='/'>Om oss</Link>
           </li>
           <li
             id='menu-item-8828'
@@ -90,19 +89,7 @@ export default function Header() {
             id='menu-item-8830'
             className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8830'
           >
-            <Link href='/'>Karriär</Link>
-          </li>
-          <li
-            id='menu-item-8829'
-            className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8829'
-          >
             <Link href='/'>Hållbarhet</Link>
-          </li>
-          <li
-            id='menu-item-8831'
-            className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8831'
-          >
-            <Link href='/'>MSA Innovation Lab</Link>
           </li>
         </ul>
       </div>
