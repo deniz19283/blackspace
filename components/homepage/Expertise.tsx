@@ -46,13 +46,12 @@ export default function Expertise() {
             />
           </figure>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>Idéen bakom företaget</h2>
+            <h2 className='content-module_title section-title'>Idéen om företaget</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
                 Världen påverkar hur vi utför vårt arbete. Det går fort. Alldeles för fort. Vi investerar därför vår tid
-                till att hjälpa dig att vrida tillbaka klockan. Oavsett om ditt företag eller din organisation körs på en väloljad maskin eller inte, 
-                kommer det finnas jobb att göra. Vi vill därför göra det bättre jobbet, så att ditt företag uppfattas på bästa sätt i din företagvärld. 
-                Vår idé är att hjälpa dig, att bli, den bästa versionen. Det blir bättre och du behöver inte springa fortare för det. 
+                till att hjälpa dig att göra din digitala produkt bättre, så att ditt företag på bästa sätt kan bli den bästa versionen. 
+                Det blir bättre och du behöver inte springa fortare för det. 
               </p>
             </div>
             <footer className='content-module_footer'>
