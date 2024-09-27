@@ -16,17 +16,16 @@ export default function Expertise() {
                 till att bli den bästa möjliga versionen. Våra resultat ledar till bättre närvar och en bättre kundupplevelse, 
                 högre konvertingar, färre risker med ökad tydlighet och klarhet. Vårt mål är att och företag som når mål. 
                 Vi erbjuder att bygga förmågor som genererar värde och mer utrymme där ni behöver, för en mer ansvarsfull och säker digital närvaro.
-                
               </p>
             </div>
             <footer className='content-module_footer'>
               <Link
                 href='/'
                 target='_self'
-                title='Our offer'
+                title='Vårt erbjudande'
                 className='button'
               >
-                Our offer{' '}
+                Vårt erbjudande{' '}
               </Link>
             </footer>
           </div>
@@ -47,14 +46,13 @@ export default function Expertise() {
             />
           </figure>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>The idea behind Blackspace</h2>
+            <h2 className='content-module_title section-title'>Idéen bakom företaget</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                The world influence how we carry out our work, how leaders design and manage their 
-                organisations, and how companies and we relate to the world around us, and to other people. 
-                Wether you assume that your organisation is best run as a well oiled machine or a broken mirror, 
-                you will perceive to be the best to design your organizational world. Our idea is to help you
-                do just that - design the best organisational world possible. 
+                Världen påverkar hur vi utför vårt arbete. Det går fort. Alldeles för fort. Vi investerar därför vår tid
+                till att hjälpa dig att vrida tillbaka klockan. Oavsett om ditt företag eller din organisation körs på en väloljad maskin eller inte, 
+                kommer det finnas jobb att göra. Vi vill därför göra det bättre jobbet, så att ditt företag uppfattas på bästa sätt i din företagvärld. 
+                Vår idé är att hjälpa dig, att bli, den bästa versionen. Det blir bättre och du behöver inte springa fortare för det. 
               </p>
             </div>
             <footer className='content-module_footer'>
