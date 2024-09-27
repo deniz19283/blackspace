@@ -37,9 +37,6 @@ export default function Header() {
               <li className='menu-item menu-item-secondary menu-item-lang'>
                 <Link href='/'>English</Link>
               </li>
-              <li className='menu-item menu-item-secondary menu-item-search-button'>
-                <Link href='/'>Sök</Link>
-              </li>
             </ul>
             <button className='menu-button' aria-label='Meny'>
               <span className='visuallyhidden'>Meny</span>
