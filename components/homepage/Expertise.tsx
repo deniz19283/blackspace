@@ -11,12 +11,11 @@ export default function Expertise() {
             <h2 className='content-module_title section-title'>Our offer in an international environment</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Our focus is to deliver those outcomes that 
-                deliver integrated value and Our idea is by structuring the right activities and designing organizational
-                capabilities, we can help organisations, companies and states thrive and become the best version possible.
-                Those leaderships, who wants to improve the value of an organisation, a company or a state need to know 
-                how to organize and achieve organizational goals; We offer to build those capabilities that construct
-                value in a space that is needed for responsible security and safety. 
+                Vårt fokus är att hjälpa företag, organisationer att förbättre deras digitala affär. Vår idé är att förbättra
+                varje enskild komponent att bli den bästa möjliga. Vi arbetar med designen, tekniken, IT-juridiken, kommunikationen
+                till att bli den bästa möjliga versionen. Våra resultat ledar till bättre närvar och en bättre kundupplevelse, 
+                högre konvertingar, färre risker med ökad tydlighet och klarhet. Vårt mål är att och företag som når mål. 
+                Vi erbjuder att bygga förmågor som genererar värde och mer utrymme där ni behöver, för en mer ansvarsfull och säker digital närvaro.
                 
               </p>
             </div>
