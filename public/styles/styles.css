@@ -5,22 +5,22 @@
 @font-face {
   font-family: Caslon224Std-Book;
   font-weight: 300;
-  src: url(../font/Caslon224Std-Book.woff2);
+  src: url(../font/Karla-VariableFont_wght.ttf);
 }
 @font-face {
   font-family: MonumentGrotesk-Bold;
   font-weight: 700;
-  src: url(../font/MonumentGrotesk-Bold.woff2);
+  src: url(../font/Karla-VariableFont_wght.ttf);
 }
 @font-face {
   font-family: MonumentGrotesk-Medium;
   font-weight: 600;
-  src: url(../font/MonumentGrotesk-Medium.woff2);
+  src: url(../font/Karla-VariableFont_wght.ttf);
 }
 @font-face {
   font-family: MonumentGrotesk-Regular;
   font-weight: 400;
-  src: url(../font/MonumentGrotesk-Regular.woff);
+  src: url(../font/Karla-VariableFont_wght.ttf);
 }
 
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
