@@ -220,7 +220,7 @@ export default function Footer() {
               </div>
             </div>
             <div className='flex flex-col gap-8 menu-link-heading'>
-              <h4 className='font-bold'>FÖRETAGY</h4>
+              <h4 className='font-bold'>VÅRT ERBJUDANDE</h4>
               <ul className='pl-0'>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
@@ -240,7 +240,7 @@ export default function Footer() {
               </ul>
             </div>
             <div className='flex flex-col gap-8 menu-link-heading'>
-              <h4 className='font-bold'>UNDERSÖK</h4>
+              <h4 className='font-bold'>MER INFO</h4>
               <ul className='pl-0'>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
