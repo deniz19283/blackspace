@@ -34,20 +34,6 @@ export default function SearchOverlay() {
               </li>
               <li className='search-terms-row'>
                 <span>
-                  <a href='https://www.blackspace.se'>
-                    Student
-                  </a>
-                </span>
-                <span>
-                  <a href='https://www.mannheimerswartling.se/?s=Lediga+tj%C3%A4nster'>
-                    Lediga tjänster
-                  </a>
-                </span>
-                <span>
-                  <a href='https://www.mannheimerswartling.se/?s=Expertis'>
-                    Expertis
-                  </a>
-                </span>
               </li>
             </ul>
           </div>
