@@ -8,9 +8,14 @@ export default function Advertise() {
       <section className='module-component module-component_hero has-image'>
         <div className='wrapper'>
           <div className='hero_anchor'>
-            <h2>Idéen om Blackspace</h2>
+            <h2>Idén om byrån</h2>
             <p className='preamble'>
-              Att hjälpa företag, organisationer och myndigheter med bättre digitala produkter.
+              Idéen för Blackspace föddes ur att göra teknik mycket enklare och lätt förståeligt. Vi använder oss av de bästa lösningarna, 
+              vilket motsvarar 5-10% av det som finns. De andra 90% motsvararar andra behov. Vi vill hjälpa våra kunder till den 
+              bästa och mest närvarande användarupplvelsen för ett överkomligt pris. Vi undviker komplexitet, eftersom tekniken
+              vi jobbar med är redan enormt komplex, så våra resterande komponenter kan vara simpla. Vi använder enkel kommunikation, bildspråk, animationer, 
+              struktur och organisation för att slutanvändare ska uppskatta och förstå. Kan du t.ex hitta telefonummer och adress, lätt på en hemsida, så vet du.
+
             </p>
             <Link
               href='/'
