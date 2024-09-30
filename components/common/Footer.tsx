@@ -205,7 +205,7 @@ export default function Footer() {
                   </li>
                   <li className='list-none'>
                     <Link href='/' className='text-[16px]'>
-                      About us
+                      Om oss
                     </Link>
                   </li>
                 </ul>
