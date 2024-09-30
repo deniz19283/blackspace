@@ -196,7 +196,7 @@ export default function Footer() {
           <div className='flex md:flex-row flex-row justify-end sm:flex-col gap-[10rem] md:w-[50%] w-full sm:w-full mt-8'>
             <div className='flex flex-col gap-[8rem]'>
               <div className='flex flex-col gap-8 menu-link-heading'>
-                <h4 className='font-bold '>WELCOME</h4>
+                <h4 className='font-bold '>VÄLKOMMEN</h4>
                 <ul className='pl-0'>
                   <li className='list-none'>
                     <Link href='/' className='text-[16px]'>
@@ -220,21 +220,21 @@ export default function Footer() {
               </div>
             </div>
             <div className='flex flex-col gap-8 menu-link-heading'>
-              <h4 className='font-bold'>COMPANY</h4>
+              <h4 className='font-bold'>FÖRETAGY</h4>
               <ul className='pl-0'>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
-                    How can we help you
+                    Hur vi kan hjälpa dig
                   </Link>
                 </li>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
-                    Our Offer
+                    Vårt erbjudande
                   </Link>
                 </li>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
-                    Company
+                    Företag
                   </Link>
                 </li>
               </ul>
