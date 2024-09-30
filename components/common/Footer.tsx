@@ -184,13 +184,12 @@ export default function Footer() {
         <div className='h-full flex md:flex-row flex-row sm:flex-col gap-4 py-[10%] px-[5%]'>
           <div className='flex flex-col gap-4 md:w-[50%] w-full sm:w-full'>
             <h2 className='text-xl font-bold font-monu-reg'>
-              We work on building a healthier tomorrow for our clients
+              Vi jobbar på att hjälpa våra kunder till bättre digitala upplevelser.
             </h2>
             <p className='text-[#afafaf] font-monu-reg'>
-              Successfull corporate brand's they need to get the organization
-              behind the delivery of it's promise; We approach projects with a
-              thorough understanding of what an organization is and how it
-              operates.
+             Företag behöver hjälp med att producera en närvarande, ansvarsfull
+              och tydlig webbplats för sina kunder och besökare. Vi vet hur det
+              fungerar!
             </p>
             <Newsletter />
           </div>
