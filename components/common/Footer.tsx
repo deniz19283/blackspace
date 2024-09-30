@@ -9,7 +9,7 @@ export default function Footer() {
       <footer className='site-footer'>
         {/* <div className='wrapper'>
           <div className='site-footer-newsletter'>
-            <h2>Mer Mannheimer Swartling?</h2>
+            <h2>Mer om Blackspace Digitala Byrå</h2>
             <p className='preamble-large'>
               Håll dig uppdaterad med&nbsp;våra&nbsp;nyhetsbrev.
             </p>
@@ -38,17 +38,7 @@ export default function Footer() {
                   >
                     <Link href='/'>Stockholm</Link>
                   </li>
-                  <li
-                    id='menu-item-8498'
-                    className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8498'
-                  >
-                    <Link href='/'>Göteborg</Link>
                   </li>
-                  <li
-                    id='menu-item-8499'
-                    className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8499'
-                  >
-                    <Link href='/'>Malmö</Link>
                   </li>
                 </ul>
               </li>
@@ -56,13 +46,13 @@ export default function Footer() {
                 id='menu-item-13902'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13902'
               >
-                <Link href='/'>Belgien</Link>
+                <Link href='/'>Istanbul</Link>
                 <ul className='sub-menu'>
                   <li
                     id='menu-item-8502'
                     className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8502'
                   >
-                    <Link href='/'>Bryssel</Link>
+                    <Link href='/'>Zurich</Link>
                   </li>
                 </ul>
               </li>
@@ -78,32 +68,17 @@ export default function Footer() {
                   >
                     <Link href='/'>Singapore</Link>
                   </li>
-                </ul>
-              </li>
-              <li
-                id='menu-item-13907'
-                className='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13907'
-              >
-                <Link href='/'>USA</Link>
-                <ul className='sub-menu'>
-                  <li
-                    id='menu-item-8503'
-                    className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8503'
-                  >
-                    <Link href='/'>New York</Link>
-                  </li>
-                </ul>
-              </li>
             </ul>
           </nav>
           <div className='site-footer-about-company'>
             <p>
-              2008–2024 © Mannheimer Swartling Advokatbyrå AB med säte i
-              Stockholm
+              2024 Blackspace Digitala Byrå,
+              Stockholm Sverige
+
             </p>
             <p>
-              <span>Organisationsnummer: 556399–4499</span>
-              <span>Momsnummer (VAT no): SE556399449901</span>
+              <span>Organisationsnummer: 556703-9408</span>
+              <span>Momsnummer (VAT no): SE556703-9408</span>
             </p>
           </div>
           <nav className='company-terms'>
