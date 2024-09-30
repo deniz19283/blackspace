@@ -6,19 +6,19 @@ export default function Bottom() {
     <div className='flex justify-between gap-6 items-center flex-wrap px-16 pb-16'>
       <div className='flex gap-6 item-center'>
         <Link className='font-monu-reg text-[15px] text-white' href='/'>
-          General
+          Generellt
         </Link>
         <Link className='font-monu-reg text-[15px] text-white' href='/'>
-          Conditions
+          Miljö
         </Link>
         <Link className='font-monu-reg text-[15px] text-white' href='/'>
-          Disclaimer
+          Ansvarsfriskrivning
         </Link>
         <Link className='font-monu-reg text-[15px] text-white' href='/'>
-          Privacy notice
+          Dataskyddsbeskrivning
         </Link>
         <Link className='font-monu-reg text-[15px] text-white' href='/'>
-          Cookie policy
+          Cookiepolicy
         </Link>
       </div>
       <div className='flex gap-6 item-center'>
