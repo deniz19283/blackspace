@@ -7,7 +7,7 @@ export default function SearchOverlay() {
         <div className='wrapper'>
           <button className='search-overlay_close-button'>Stäng</button>
           <form
-            action='https://www.mannheimerswartling.se/'
+            action='https://www.blackspace.se'
             method='get'
             className='search-form'
             role='search'
@@ -22,19 +22,19 @@ export default function SearchOverlay() {
             <ul className='popular-search-terms_list'>
               <li className='search-terms-row'>
                 <span>
-                  <a href='https://www.mannheimerswartling.se/?s=Verksamhetsomr%C3%A5den'>
-                    Verksamhetsområden
+                  <a href='https://www.blackspace.se/projects'>
+                    Våra projekt
                   </a>
                 </span>
                 <span>
-                  <a href='https://www.mannheimerswartling.se/?s=Branscher'>
+                  <a href='https://www.blackspace.se/brancher'>
                     Branscher
                   </a>
                 </span>
               </li>
               <li className='search-terms-row'>
                 <span>
-                  <a href='https://www.mannheimerswartling.se/?s=Student'>
+                  <a href='https://www.blackspace.se'>
                     Student
                   </a>
                 </span>
