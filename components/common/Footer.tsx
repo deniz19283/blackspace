@@ -200,7 +200,7 @@ export default function Footer() {
                 <ul className='pl-0'>
                   <li className='list-none'>
                     <Link href='/' className='text-[16px]'>
-                      StartPage
+                      Startsida
                     </Link>
                   </li>
                   <li className='list-none'>
