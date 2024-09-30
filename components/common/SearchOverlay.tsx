@@ -25,8 +25,6 @@ export default function SearchOverlay() {
                   <a href='https://www.blackspace.se/projects'>
                     Våra projekt
                   </a>
-                </span>
-                <span>
                   <a href='https://www.blackspace.se/brancher'>
                     Branscher
                   </a>
