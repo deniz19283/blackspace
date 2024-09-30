@@ -8,7 +8,7 @@ export default function Newsletter() {
       </h4>
       <form className='flex  gap-6'>
         <input type='email' placeholder='Your email' className=' w-full p-2 pl-8 text-[16px] text-[#000] outline-none rounded-[100px]' />
-        <button type='submit' className='button !bg-white !text-[#000]'>Subscribe</button>
+        <button type='submit' className='button !bg-white !text-[#000]'>Anmälan</button>
       </form>
     </div>
   );
