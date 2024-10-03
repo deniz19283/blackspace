@@ -7,11 +7,11 @@ export default function Hero() {
       <section className='module-component module-component_hero'>
         <div className='wrapper'>
           <div className='hero_anchor'>
-            <h2>Welcome to Blackspace</h2>
+            <h2>Välkommen till byrån Blackspace</h2>
             <Link
               href='/'
               target='_self'
-              title='About the company'
+              title='Om byrån'
               className='button button-white'
             >
               Om byrån{' '}
