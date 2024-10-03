@@ -8,7 +8,7 @@ export default function Advertise() {
       <section className='module-component module-component_hero has-image'>
         <div className='wrapper'>
           <div className='hero_anchor'>
-            <h2>Idén om byrån</h2>
+            <h2>Idéen om byrån</h2>
             <p className='preamble'>
               Idéen för Blackspace föddes ur att göra teknik mycket enklare och lätt förståeligt. Vi använder oss av de bästa lösningarna, 
               vilket motsvarar 5-10% av det som finns. De andra 90% motsvararar andra behov. Vi vill hjälpa våra kunder till den 
@@ -32,7 +32,7 @@ export default function Advertise() {
           height={1042}
           src='/assets/advertise/image-1.jpg'
           className='hero_img'
-          alt='Vy över New York'
+          alt='Vy över Stockholm'
           decoding='async'
           loading='lazy'
           sizes='(max-width: 2000px) 100vw, 2000px'
