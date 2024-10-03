@@ -8,14 +8,11 @@ export default function Expertise() {
       <section className='module-component module-component_content'>
         <div className='wrapper content-module_width-large'>
           <div className='content-module_wrapper'>
-            <h2 className='content-module_title section-title'>Our offer in an international environment</h2>
+            <h2 className='content-module_title section-title'>Vårt erbjudande</h2>
             <div className='content-module_content article-text text-flow'>
               <p className='preamble-large'>
-                Vårt fokus är att hjälpa företag, organisationer att förbättre deras digitala affär. Vår idé är att förbättra
-                varje enskild komponent att bli den bästa möjliga. Vi arbetar med designen, tekniken, IT-juridiken, kommunikationen
-                till att bli den bästa möjliga versionen. Våra resultat ledar till bättre närvar och en bättre kundupplevelse, 
-                högre konvertingar, färre risker med ökad tydlighet och klarhet. Vårt mål är att och företag som når mål. 
-                Vi erbjuder att bygga förmågor som genererar värde och mer utrymme där ni behöver, för en mer ansvarsfull och säker digital närvaro.
+                Vi hjälper företag att bli bättre och våra resultat ledar till en bättre digital närvaro och kundupplevelse, 
+                vilket leder till bättre affärer - Vi fokuserar på simpla lösningar på den bästa tekniken.  
               </p>
             </div>
             <footer className='content-module_footer'>
