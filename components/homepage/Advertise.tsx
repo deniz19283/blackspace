@@ -10,12 +10,14 @@ export default function Advertise() {
           <div className='hero_anchor'>
             <h2>Idéen om byrån</h2>
             <p className='preamble'>
-              Idéen för Blackspace föddes ur att göra teknik mycket enklare och lätt förståeligt. Vi använder oss av de bästa lösningarna, 
-              vilket motsvarar 5-10% av det som finns. De andra 90% motsvararar andra behov. Vi vill hjälpa våra kunder till den 
-              bästa och mest närvarande användarupplvelsen för ett överkomligt pris. Vi undviker komplexitet, eftersom tekniken
-              vi jobbar med är redan enormt komplex, så våra resterande komponenter kan vara simpla. Vi använder enkel kommunikation, bildspråk, animationer, 
-              struktur och organisation för att slutanvändare ska uppskatta och förstå. Kan du t.ex hitta telefonummer och adress, lätt på en hemsida, så vet du.
-
+              Idéen för Blackspace föddes ur en simpel idé - att erbjuda rätt teknik på ett enkelt och tillgängligt sätt. 
+              Efter 10 inom IT-världen insåg jag att det bästa är 5% av de lösningar som finns. Konkurrensen är tuff
+              för att marknaden innehåller många alternativ. Vi ser förbi sånt och försöker hellre ligga ljussår före.
+              Tänk att försöka implementera OK teknik, det kommer att kosta miljoner för det är resurs-inneffektivt
+              att ta in designers, affärsutvecklare, kommunikatörer, systemutvecklare, säkerhetsexperter, för att 
+              säkerställa rätt lösning. Vi erbjuder IT-arkitektur, Systemutveckling, IT-Juridik, Design, Kommunikation
+              och allt som behövs. Men eftersom vi endast använder 5% av resurserna kan vi producera hållbara lösningar
+              som håller i längden för minsta möjliga insats. Det tror vi gynnar alla i längden. 
             </p>
             <Link
               href='/'
