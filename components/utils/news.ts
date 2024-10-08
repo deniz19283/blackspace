@@ -2,7 +2,7 @@ export const newsData = [
   {
     link: '',
     title:
-      'InterTank Nordic förvärvar Nordic Storage och tar in La Petrolifera Italo Rumena S.p.A. (PIR) som ny majoritetsägare',
+      'Blackspace inleder samarbete en stor organisation för att bygga designkapabilitiet ',
     image: '/assets/news/image-1.jpg',
     date: '23 augusti 2024',
     terms: ['Arbetsrätt och pensioner', 'Företagsöverlåtelser', 'Miljörätt']
