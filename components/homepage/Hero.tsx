@@ -20,7 +20,7 @@ export default function Hero() {
         </div>
         <video loop={true} muted={true} playsInline={false} autoPlay={true}>
           <source src='assets/footer/footer-video.mp4' type='video/mp4' />
-          <p>You'r browser does not support video.</p>
+          <p>Your browser does not support video.</p>
         </video>
       </section>
     </>
