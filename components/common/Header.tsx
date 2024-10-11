@@ -20,22 +20,22 @@ export default function Header() {
                 id='menu-item-8822'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8822'
               >
-                <Link href='/'>Hur vi kan hjälpa till</Link>
+                <Link href='/'>How we can help you</Link>
               </li>
               <li
                 id='menu-item-13766'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-13766'
               >
-                <Link href='/'>Vårt erbjudande</Link>
+                <Link href='/'>Our offer</Link>
               </li>
               <li
                 id='menu-item-22119'
                 className='menu-item menu-item-type-post_type menu-item-object-page menu-item-22119'
               >
-                <Link href='/'>Om Oss</Link>
+                <Link href='/'>About us</Link>
               </li>
               <li className='menu-item menu-item-secondary menu-item-lang'>
-                <Link href='/'>English</Link>
+                <Link href='/'>Swedish</Link>
               </li>
             </ul>
             <button className='menu-button' aria-label='Meny'>
@@ -55,13 +55,13 @@ export default function Header() {
             id='menu-item-8824'
             className='menu-item menu-item-type-post_type menu-item-object-page menu-item-8824'
           >
-            <Link href='/'>Hur vi kan hjälpa till</Link>
+            <Link href='/'>How we can help you</Link>
           </li>
           <li
             id='menu-item-8390'
             className='menu-item menu-item-type-custom menu-item-object-custom menu-item-8390'
           >
-            <Link href='/medarbetare'>Vårt erbjudande</Link>
+            <Link href='/medarbetare'>Our offer</Link>
           </li>
           <li
             id='menu-item-8827'
