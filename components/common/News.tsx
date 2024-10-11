@@ -1,16 +1,28 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import React from 'react';
-import { newsData } from '../utils/news';
 
-export default function News() {
+export default function News({
+  data,
+  title,
+  hideButton = false
+}: {
+  data: {
+    link: string;
+    title: string;
+    image: string;
+    date: string;
+    terms: string[];
+  }[];
+  title: string;
+  hideButton?: boolean;
+}) {
   return (
     <>
       <section className='module-component module-component_posts'>
         <div className='wrapper'>
-          <h2 className='section-title'>Våra pågende projekt</h2>
+          <h2 className='section-title'>{title}</h2>
           <div className='posts-list'>
-            {newsData.map((news, index) => (
+            {data.map((news, index) => (
               <div key={index} className='postentry'>
                 <Link href={news.link} title={news.title}>
                   <Image
@@ -33,16 +45,18 @@ export default function News() {
               </div>
             ))}
           </div>
-          <footer className='posts_footer'>
-            <a
-              href='/'
-              target='_self'
-              title='Se fler projekt'
-              className='button'
-            >
-              Se fler projekt{' '}
-            </a>
-          </footer>
+          {!hideButton && (
+            <footer className='posts_footer'>
+              <a
+                href='/'
+                target='_self'
+                title='Se fler projekt'
+                className='button'
+              >
+                Se fler projekt{' '}
+              </a>
+            </footer>
+          )}
         </div>
       </section>
     </>
