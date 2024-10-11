@@ -6746,7 +6746,7 @@ input[type='search']:focus {
   font-family: Caslon224Std-Book, serif;
 }
 .offer-layout p:last-child {
-  text-align: left !important;
+  text-align: left ;
 }
 @media (min-width: 900px) {
   .offer-layout {
