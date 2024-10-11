@@ -22,16 +22,9 @@ export default function SearchOverlay() {
             <ul className='popular-search-terms_list'>
               <li className='search-terms-row'>
                 <span>
-                  <a href='https://www.blackspace.se/projects'>
-                    Våra projekt
-                  </a>
-                  <a href='https://www.blackspace.se/brancher'>
-                    Branscher
-                  </a>
+                  <a href='https://www.blackspace.se/projects'>Våra projekt</a>
+                  <a href='https://www.blackspace.se/brancher'>Branscher</a>
                 </span>
-              </li>
-              <li className='search-terms-row'>
-                <span>
               </li>
             </ul>
           </div>

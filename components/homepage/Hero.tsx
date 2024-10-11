@@ -8,12 +8,12 @@ export default function Hero() {
         <div className='wrapper'>
           <div className='hero_anchor'>
             <h2>Välkommen till byrån Blackspace</h2>
-            <Link>
+            <Link
               href='/'
               target='_self'
               title='Om byrån'
               className='button button-white'
-            
+            >
               Om byrån{' '}
             </Link>
           </div>
