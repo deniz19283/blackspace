@@ -10,19 +10,18 @@ export default function Footer() {
         <div className='h-full flex md:flex-row flex-row sm:flex-col gap-4 py-[10%] px-[5%]'>
           <div className='flex flex-col gap-4 md:w-[50%] w-full sm:w-full'>
             <h2 className='text-xl font-bold font-monu-reg'>
-              Vi jobbar med att hjälpa kunder till bättre digitala upplevelser.
+              We help clients to reach better digital experiences.
             </h2>
             <p className='text-[#afafaf] font-monu-reg'>
-             Företag behöver hjälp med att producera en närvarande, ansvarsfull
-              och tydlig webbplats för sina kunder och besökare. Vi vet, hur det
-              det går till och fungerar. 
+             You need our help to produce a present, responsible and clear digital experience
+              for your needs. Vi know how to help you.
             </p>
             <Newsletter />
           </div>
           <div className='flex md:flex-row flex-row justify-end sm:flex-col gap-[10rem] md:w-[50%] w-full sm:w-full mt-8'>
             <div className='flex flex-col gap-[8rem]'>
               <div className='flex flex-col gap-8 menu-link-heading'>
-                <h4 className='font-bold '>VÄLKOMMEN</h4>
+                <h4 className='font-bold '>Welcome</h4>
                 <ul className='pl-0'>
                   <li className='list-none'>
                     <Link href='/' className='text-[16px]'>
@@ -31,7 +30,7 @@ export default function Footer() {
                   </li>
                   <li className='list-none'>
                     <Link href='/' className='text-[16px]'>
-                      Om oss
+                      About us
                     </Link>
                   </li>
                 </ul>
@@ -41,32 +40,32 @@ export default function Footer() {
                 <p className='text-2xl'>Stockholm</p>
                 <p className='text-2xl'>
                   Valhallavägen 47 <br /> 114 22 Stockholm <br />
-                  info@blackspace.se
+                  hello@blackspace.se
                 </p>
               </div>
             </div>
             <div className='flex flex-col gap-8 menu-link-heading'>
-              <h4 className='font-bold'>VÅRT ERBJUDANDE</h4>
+              <h4 className='font-bold'>Our Offer</h4>
               <ul className='pl-0'>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
-                    Hur vi kan hjälpa dig
+                    How can we help you
                   </Link>
                 </li>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
-                    Vårt erbjudande
+                    Our offer
                   </Link>
                 </li>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
-                    Företag
+                    Company
                   </Link>
                 </li>
               </ul>
             </div>
             <div className='flex flex-col gap-8 menu-link-heading'>
-              <h4 className='font-bold'>MER INFO</h4>
+              <h4 className='font-bold'>More info</h4>
               <ul className='pl-0'>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
@@ -75,7 +74,7 @@ export default function Footer() {
                 </li>
                 <li className='list-none'>
                   <Link href='/' className='text-[16px]'>
-                   Våra projekt
+                   Our projects
                   </Link>
                 </li>
               </ul>
