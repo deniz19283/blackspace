@@ -95,8 +95,48 @@ export default function AboutPage() {
           och tillgång till och användning av data
           <br />
           <br />
-          Ett flertal av byråns specialister samverkar inom området Digital Compliance för att skräddarsy den bästa möjliga rådgivningen med hänsyn till varje enskild klient och uppdrag, samt för att säkerställa att byrån alltid är uppdaterad på den senaste utvecklingen på området
+          Ett flertal av byråns specialister samverkar inom området Digital
+          Compliance för att skräddarsy den bästa möjliga rådgivningen med
+          hänsyn till varje enskild klient och uppdrag, samt för att säkerställa
+          att byrån alltid är uppdaterad på den senaste utvecklingen på området
         </p>
+      </div>
+      <hr />
+      <div className='my-10 offer-layout'>
+        <h1 className='!text-5xl font-[900] mb-8'>Idén</h1>
+        <div className='flex items-center justify-between gap-8 md:flex-row flex-col'>
+          <div className='w-full'>
+            <Image
+              src='/assets/offer/hero.svg'
+              alt='hero'
+              layout='responsive'
+              width={400}
+              height={200}
+            />
+          </div>
+          <p
+            style={{
+              textAlign: 'left',
+              fontSize: '12px'
+            }}
+          >
+            Jag hoppas att vår hemsida ska ge dig en bild av Mannheimer
+            Swartling. Inte bara vad vi gör, utan vilka vi faktiskt är.
+            <br />
+            <br />
+            Vi har alltid siktat på att vara den absolut bästa advokatbyrån på
+            vår marknad. Att leverera rådgivning som håller den högsta möjliga
+            kvaliteten samtidigt som vi agerar proaktivt och ansvarsfullt i
+            förhållande till klienter, kollegor och samhället omkring oss. Vi
+            vill vara en rådgivare som bidrar med någonting mer. Som inte bara
+            möter förväntningarna, utan som hela tiden överträffar dem.
+            <br />
+            <br />
+            Redan när jag började på Mannheimer Swartling för mer än 20 år sedan
+            var detta drivkrafter som kännetecknade oss. Det är med stolthet jag
+            konstaterar att dessa drivkrafter är precis lika starka idag.
+          </p>
+        </div>
       </div>
     </main>
   );
