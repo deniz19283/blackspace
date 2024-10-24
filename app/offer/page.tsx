@@ -12,7 +12,7 @@ export default function OfferPage() {
     >
       <section className='offer-layout'>
         <div>
-          <h1>Vårt erbjudande</h1>
+          <h1 className='text-[5ch] font-bold mb-5'>Vårt erbjudande</h1>
           <p>
             Lås upp ditt företags fulla potential med våra webblösningar. På
             Blackspace är vi specisliserade på att skapa unika och anpassade
